@@ -1,0 +1,122 @@
+Consumer Thread 2 started
+Producer Thread  started
+Consumer Thread 3 started
+Consumer Thread 1 started
+
+
+
+Entry removed from index :2
+Entry removed from index :2
+Entry removed from index :2
+Consumer Thread 2 Consumed null
+Entry added @ index 0
+Consumer Thread 1 Consumed null
+Consumer Thread 3 Consumed null
+Produced ak.soul.disruptor.TaskPoolQueueEntry@1fd1fb58
+Entry added @ index 1
+Produced ak.soul.disruptor.TaskPoolQueueEntry@111616d2
+Entry added @ index 2
+Produced ak.soul.disruptor.TaskPoolQueueEntry@15299028
+Entry added @ index 3
+Produced ak.soul.disruptor.TaskPoolQueueEntry@502b1ce9
+Entry added @ index 4
+Produced ak.soul.disruptor.TaskPoolQueueEntry@4030268f
+
+Entry removed from index :2
+Consumer Thread 1 Consumed ak.soul.disruptor.TaskPoolQueueEntry@15299028
+Entry added @ index 5
+Produced ak.soul.disruptor.TaskPoolQueueEntry@613108dd
+Entry added @ index 6
+Produced ak.soul.disruptor.TaskPoolQueueEntry@38c06c03
+Entry added @ index 7
+Produced ak.soul.disruptor.TaskPoolQueueEntry@3004e3a6
+Entry added @ index 8
+Produced ak.soul.disruptor.TaskPoolQueueEntry@71c1af77
+Entry added @ index 9
+Produced ak.soul.disruptor.TaskPoolQueueEntry@18df3672
+
+Entry removed from index :2
+Consumer Thread 2 Consumed ak.soul.disruptor.TaskPoolQueueEntry@15299028
+
+Entry removed from index :2
+Consumer Thread 1 Consumed ak.soul.disruptor.TaskPoolQueueEntry@15299028
+Entry added @ index 0
+Produced ak.soul.disruptor.TaskPoolQueueEntry@23c4e11e
+Entry added @ index 1
+Produced ak.soul.disruptor.TaskPoolQueueEntry@344a3f13
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
+ProducerThread:Spinning on Memory Barrier
