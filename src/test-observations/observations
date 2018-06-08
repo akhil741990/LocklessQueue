@@ -1,3 +1,5 @@
+
+
 After few get and put. Producer thread is continuously spinning on Memory Barrier. All the thread are allocate to the same core. hence Deadlock
 
 Command for thread dump : jstack -l 24031 > threadump5
